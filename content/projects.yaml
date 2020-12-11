@@ -45,7 +45,7 @@
   icon: website
   image: images/project.jpg
 - name: An article on Esoteric Proramming language
-  url: ''
+  url: 'https://dev.to/bmchaithu/esoteric-programming-language-37'
   description: >-
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua.
