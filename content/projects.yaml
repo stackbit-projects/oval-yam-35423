@@ -1,9 +1,9 @@
 - name: NodeJS Web app
   url: 'https://github.com/bmchaitu/vidly_'
   description: >-
-    Override the digital divide with additional clickthroughs from DevOps. User
-    generated content in real-time will have multiple touchpoints for
-    offshoring.
+    This a movie rental web app with NodeJS back-end, it has the workflow of
+    SignUp, LogIn, and a conenected to Mongo database to save all the user
+    database. It also has the rolse based signIn's
   status: in progress
   tags:
     - JavaScript
