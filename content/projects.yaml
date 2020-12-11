@@ -8,7 +8,7 @@
     All theJavascript syntax used are from ECMAScript 2016.
   status: live
   tags:
-    - JavaScript
+    - MongoDB
     - NodeJS
   icon: github
 - name: Chrome-Extension  starter
