@@ -14,8 +14,8 @@
 - name: Chrome-Extension  starter
   url: 'https://github.com/bmchaitu/tabextension'
   description: >-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua.elps It 
+    It helps the developer to make the customizable new tab page to develop in a
+    classic manner 
   status: in progress
   tags: []
   icon: github
