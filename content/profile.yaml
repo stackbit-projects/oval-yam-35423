@@ -29,3 +29,24 @@
     max: 30
     default: 10
   image: images/p.jpg
+- profile: lorem-ipsum
+  initials: lorem-ipsum
+  name: lorem-ipsum
+  email: lorem-ipsum
+  profession: lorem-ipsum
+  location: lorem-ipsum
+  relocation: false
+  company: lorem-ipsum
+  for_hire: false
+  focus: lorem-ipsum
+  focus_url: lorem-ipsum
+  about: >-
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua.
+  skills: []
+  tools: []
+  budget:
+    currency: lorem-ipsum
+    min: 0
+    max: 0
+    default: 0
