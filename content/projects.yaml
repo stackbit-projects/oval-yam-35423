@@ -15,7 +15,9 @@
   url: 'https://github.com/bmchaitu/tabextension'
   description: >-
     It helps the developer to make the customizable new tab page to develop in a
-    classic manner 
+    classic manner. No need to write all the manifest file and others, bydefault
+    it has the wall clock which describes the time with the timezone
+    irrespective of the system time.
   status: in progress
   tags: []
   icon: github
