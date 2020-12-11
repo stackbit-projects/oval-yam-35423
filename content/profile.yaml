@@ -21,7 +21,7 @@
     - NodeJS
     - Python
   tools:
-    - React
+    - Git
     - Latex
     - Gatsby
   budget:
