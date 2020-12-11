@@ -10,7 +10,10 @@
   for_hire: true
   focus: Learning Gatsby
   focus_url: 'https://gatsbyjs.org'
-  about: 'I  have '
+  about: >-
+    I have been working as a Web developer and would love to build beautiful
+    websites and web apps. I have a deep understanding of Core Computer Science
+    subjects. My objective is to make the positive impact using my skills.
   skills:
     - JavaScript
     - NodeJS
