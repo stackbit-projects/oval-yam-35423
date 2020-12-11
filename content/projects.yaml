@@ -29,7 +29,8 @@
     have been delivered can be sent to bin folder so it makes the deletion of
     emails in a easier manner.
   status: live
-  tags: []
+  tags:
+    - lorem-ipsum
   icon: github
 - name: Example 2
   url: 'https://github.com'
