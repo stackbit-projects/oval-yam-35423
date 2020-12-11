@@ -4,7 +4,7 @@
     This a movie rental web app with NodeJS back-end, it has the workflow of
     SignUp, LogIn, and a conenected to Mongo database to save all the user
     database. It also has the rolse based signIn's
-  status: in progress
+  status: live
   tags:
     - JavaScript
     - Gatsby
