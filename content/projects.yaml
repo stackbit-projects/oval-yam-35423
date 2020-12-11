@@ -20,7 +20,7 @@
     irrespective of the system time.
   status: live
   tags:
-    - lorem-ipsum
+    - ''
   icon: github
 - name: Inbox cleaner
   url: 'https://github.com/bmchaitu/Inbox-Cleaner'
