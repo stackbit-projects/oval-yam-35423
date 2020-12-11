@@ -36,8 +36,8 @@
 - name: A article on Web architecture and styles
   url: 'https://dev.to/bmchaithu/web-services-architecture-styles-56g1'
   description: >-
-    Leverage agile frameworks to provide a robust synopsis for high level
-    overviews.
+    This article explains the better way of different styles and the way of the
+    Web architecture
   status: live
   tags:
     - JavaScript
