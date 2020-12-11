@@ -2,7 +2,7 @@ module.exports = {
     siteMetadata: {
         description: "Personal page of Chaitanya",
         locale: "en",
-        title: "Chaitanya",
+        title: "Chaitu",
     },
     plugins: [
         {
