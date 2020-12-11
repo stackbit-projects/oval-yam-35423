@@ -22,7 +22,7 @@
   tags:
     - lorem-ipsum
   icon: github
-- name: lorem-ipsum
+- name: ''
   url: lorem-ipsum
   description: >-
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
