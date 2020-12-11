@@ -1,36 +1,24 @@
 - name: linkedin
-  url: https://linkedin.com/in/username
-
+  url: 'https://linkedin.com/in/bmchaitu'
 - name: twitter
-  url: https://twitter.com/username
-
+  url: 'https://twitter.com/bmchaitu'
 - name: facebook
-  url:
-
+  url: null
 - name: instagram
-  url:
-
+  url: null
 - name: dribbble
-  url:
-
+  url: null
 - name: behance
-  url:
-
+  url: null
 - name: producthunt
-  url:
-
+  url: null
 - name: github
-  url: https://github.com/username
-
+  url: 'https://github.com/bmchaitu'
 - name: goodreads
-  url:
-
+  url: null
 - name: xing
-  url:
-
+  url: null
 - name: youtube
-  url:
-
+  url: null
 - name: medium
-  url:
-
+  url: null
