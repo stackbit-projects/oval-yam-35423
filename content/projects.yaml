@@ -28,7 +28,7 @@
     It is a Inbox cleaner where if any specified repeating and irritating emails
     have been delivered can be sent to bin folder so it makes the deletion of
     emails in a easier manner.
-  status: in progress
+  status: live
   tags: []
   icon: github
 - name: Example 2
