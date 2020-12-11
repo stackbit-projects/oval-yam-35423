@@ -11,7 +11,7 @@
     - JavaScript
     - NodeJS
   icon: github
-- name: Chrome-Extension  tart
+- name: Chrome-Extension  start
   url: 'https://github.com/bmchaitu/tabextension'
   description: >-
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
