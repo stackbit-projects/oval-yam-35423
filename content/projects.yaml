@@ -30,8 +30,7 @@
     emails in a easier manner.
   status: live
   tags:
-    - lorem-ipsum
-    - lorem-ipsum
+    - Python
   icon: github
 - name: An article on Web architecture and styles
   url: 'https://dev.to/bmchaithu/web-services-architecture-styles-56g1'
