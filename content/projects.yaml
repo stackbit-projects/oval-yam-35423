@@ -19,7 +19,8 @@
     it has the wall clock which describes the time with the timezone
     irrespective of the system time.
   status: live
-  tags: []
+  tags:
+    - lorem-ipsum
   icon: github
 - name: Example 2
   url: 'https://github.com'
