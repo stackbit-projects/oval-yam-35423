@@ -25,8 +25,8 @@
 - name: Inbox cleaner
   url: 'https://github.com/bmchaitu/Inbox-Cleaner'
   description: >-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua.
+    It is a Inbox cleaner where if any specified repeating and irritating emails
+    have been delivered can be sent to bin folder
   status: in progress
   tags: []
   icon: github
