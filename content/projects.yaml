@@ -5,7 +5,7 @@
     SignUp, LogIn, and a conenected to Mongo database to save all the user
     database. It also has the rolse based signIn's.
 
-    All theJavascript syntax used are from ECMAScript 2016
+    All theJavascript syntax used are from ECMAScript 2016.
   status: live
   tags:
     - JavaScript
