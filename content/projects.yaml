@@ -44,7 +44,7 @@
     - HTML
   icon: website
   image: images/project.jpg
-- name: lorem-ipsum
+- name: An article on Esoteric Proramming language
   url: lorem-ipsum
   description: >-
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
