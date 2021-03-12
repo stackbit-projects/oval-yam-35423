@@ -6,7 +6,7 @@
   location: 'Tirupathi, AP'
   relocation: true
   company: ''
-  for_hire: true
+  for_hire: false
   focus: 'MERN Stack '
   focus_url: 'https://gatsbyjs.org'
   about: >-
