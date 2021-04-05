@@ -53,3 +53,12 @@
   tags: []
   icon: website
   image: images/images.png
+- name: A Technical blog on Big-Oh is not always the worst case
+  url: 'https://dev.to/bmchaithu/big-oh-o-does-not-give-you-always-the-worst-case-but-why-1e1'
+  description: >-
+    This technical blog gives the explanation of the Big-Oh notation of asymptotic 
+    analysis and it alaso gives the further in-detail information of other asymptotic notations as well.
+  status: live
+  tags: []
+  icon: website
+  image: images/images.png
