@@ -4,11 +4,11 @@
   email: bmchaitu@gmail.com
   profession: Web Developer
   location: 'Tirupathi, AP'
-  relocation: true
-  company: ''
+  relocation: false
+  company: 'Riktam Technologies'
   for_hire: false
   focus: 'MERN Stack '
-  focus_url: 'https://gatsbyjs.org'
+  focus_url: 'https://chaitu.tech'
   about: >-
     I have been working as a Web developer and would love to build beautiful
     websites and web apps. While I have a deep understanding of Core Computer
